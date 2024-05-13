@@ -1,4 +1,4 @@
-import { ChangeEvent, FormEvent, useEffect, useMemo, useState } from "react"
+import { ChangeEvent, FormEvent, useMemo, useState } from "react"
 import { useBudget } from "../hooks/useBudget"
 
 const BugdetForm = () => {
